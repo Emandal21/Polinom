@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1511815831 source:c:\users\user\desktop\fakultet\strukture podataka\projekti\polinom\polinom\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"polinom.h"
+	<stack>
+
+1511813797 c:\users\user\desktop\fakultet\strukture podataka\projekti\polinom\polinom\polinom.h
+	<iostream>
+	<string>
+	<cmath>
+	<stack>
+
+1511820863 source:c:\users\user\desktop\fakultet\strukture podataka\projekti\polinom\polinom\polinom.cpp
+	"polinom.h"
+
+1511274186 c:\users\user\desktop\fakultet\strukture podataka\projekti\polinom\polinom\polinom.cpp
+	"polinom.h"
+
+1511815831 source:c:\users\user\desktop\fakultet\v semestar\strukture podataka\projekti\polinom\polinom\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"polinom.h"
+	<stack>
+
+1511813797 c:\users\user\desktop\fakultet\v semestar\strukture podataka\projekti\polinom\polinom\polinom.h
+	<iostream>
+	<string>
+	<cmath>
+	<stack>
+
+1511820863 source:c:\users\user\desktop\fakultet\v semestar\strukture podataka\projekti\polinom\polinom\polinom.cpp
+	"polinom.h"
+
